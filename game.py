@@ -9,17 +9,4 @@ pygame.display.set_caption("ATIRA MULESTA!")
  
     
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
+print("Ola")
